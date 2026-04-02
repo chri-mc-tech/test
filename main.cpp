@@ -7,5 +7,9 @@ int main() {
     auto b = a*4;
 
     std::cout << b << std::endl;
+
+    float cioa = 3.0f;
+    std::cout << cioa << std::endl;
+
     return 0;
 }
